@@ -1,4 +1,3 @@
-/* Paragraphs with red text */
 .bv-text {
   color: blueviolet;
 }
@@ -7,9 +6,9 @@
 ol {
   padding: 15px;
   margin: 10px 0;
-  background-color: #f0f0f0; /* light grey background */
+  background-color: #979393;
   border-radius: 6px;
-  color: darkblue; /* text color */
+  color: darkblue;
 }
 
 
