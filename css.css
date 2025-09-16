@@ -1,0 +1,19 @@
+/* Paragraphs with red text */
+.bv-text {
+  color: blueviolet;
+}
+
+
+ol {
+  padding: 15px;
+  margin: 10px 0;
+  background-color: #f0f0f0; /* light grey background */
+  border-radius: 6px;
+  color: darkblue; /* text color */
+}
+
+
+ol li {
+  padding: 5px 0;
+  color: darkred;
+}
